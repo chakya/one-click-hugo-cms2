@@ -149,7 +149,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 [params.footer]
 enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
+blogTitle = "LATEST <span>Tour Packages</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
 socialTitle = "Follow <span>US</span>"
 
@@ -199,7 +199,7 @@ Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher
 #blog 
 [params.blog]
 enable = true
-title = "Latest <span>From</span> the <span>Blog</span>"
+title = "Latest <span>Tour Packages</span>"
 
 
 

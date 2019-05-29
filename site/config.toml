@@ -56,7 +56,7 @@ url =  "images/header.jpg"
 
 [params.gallery]
 enable = true
-title= "Featured <span>Menu</span>"
+title= "Featured <span>Tour Packages</span>"
 
 [[params.gallery.item]]
 img = "images/slider/slider-img-1.jpg"
@@ -82,8 +82,8 @@ img = "images/slider/slider-img-3.jpg"
 
 [params.about]
 enable = true
-title= "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-bgImage = "images/cooker-img.png"
+title= "<span>Travessel</span>"
+bgImage = "images/logo.png"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
 
 
@@ -92,7 +92,7 @@ description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 #food Menu
 
 [params.foodMenu]
-enable = true
+enable = false
 title = "Our Easy <span>PRICE</span>"
 description= " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
 subtitle = "FEATURED ON THE WEEK"
@@ -149,7 +149,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 [params.footer]
 enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
+blogTitle = "LATEST <span>Tour Packages</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
 socialTitle = "Follow <span>US</span>"
 
@@ -199,7 +199,7 @@ Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher
 #blog 
 [params.blog]
 enable = true
-title = "Latest <span>From</span> the <span>Blog</span>"
+title = "Latest <span>Tour Packages</span>"
 
 
 

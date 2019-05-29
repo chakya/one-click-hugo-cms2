@@ -1,5 +1,5 @@
 ---
-title: "Red Pepper Miso Wings 2"
+title: "Kepri Coral"
 date: 2018-12-26T12:30:01+06:00
 image: images/blog/blog-img-5.jpg
 type: "post"

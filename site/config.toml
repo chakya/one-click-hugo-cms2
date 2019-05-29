@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Restaurant Theme By Themefisher"
+title = "Restaurant Theme By charles"
 theme="restaurant-hugo"
 summaryLength = "7"
 
@@ -132,7 +132,7 @@ title= "SUBSCRIBE to our <span>NEWSLETTER</span>"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
 #Mailchimp subscription configaration 
-formAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+formAction = "https://charles.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
 formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
 
 #Contact 
@@ -170,20 +170,20 @@ content = "rest@gmail.com - rest@mail.ru"
 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
+link = "https://fb.com/charles"
 
 
 [[params.footer.socialLink]]
 icon = "twitter"
-link = "https://fb.com/themefisher"
+link = "https://fb.com/charles"
 
 [[params.footer.socialLink]]
 icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://fb.com/charles"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://fb.com/charles"
 
 
 #Footer Copyright
@@ -191,7 +191,7 @@ link = "https://fb.com/themefisher"
 #Footer Copyright Text
 [params.footerCopyright]
 enable = true
-Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
+Text = "Copyright 2019 - All Rights Reserved.Design and Developed By charles.com"
 
 
 

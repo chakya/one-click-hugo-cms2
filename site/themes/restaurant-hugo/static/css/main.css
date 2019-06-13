@@ -82,7 +82,8 @@ a:active {
   pointer-events: none;
   }
   .modalWindow > div {
-  width: 500px;
+  width: 80%;
+  max-width: 400px;
   position: relative;
   margin: 10% auto;
   -webkit-border-radius: 5px;
@@ -90,6 +91,8 @@ a:active {
   border-radius: 5px;
   background: #fff;
   }
+
+  
   .modalWindow .modalHeader { padding: 10px 20px 10px 20px; }
   .modalWindow .modalContent { padding: 10px 20px 20px 20px; }
   .modalWindow .modalFooter { padding: 8px 20px 8px 20px; }

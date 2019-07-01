@@ -5,10 +5,10 @@
             <div class="col-md-12">
                 <div class="block wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                     <div class="title">
-                        <h3>Featured <span>Inbound Packages</span></h3>
+                        <h3>{{ with .Site.Params.gallery.title }} {{ . | safeHTML }} {{ end }}</h3>
                     </div>
-                    <div id="owl-inbound" class="owl-carousel">
-                        {{ range where .Data.Pages  "Type" "inbound" }}
+                    <div id="owl-featured" class="owl-carousel">
+                        {{ range where .Data.Pages  "Type" "entertainment" }}
                         <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                             <div class="blog-img">
                                 {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 100%;">{{ end }}
@@ -23,72 +23,6 @@
                 </div>
             </div><!-- .col-md-12 close -->
         </div><!-- .row close -->
-        <div class="row">
-                <div class="col-md-12">
-                    <div class="block wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <div class="title">
-                            <h3>Featured <span>Outbound Packages</span></h3>
-                        </div>
-                        <div id="owl-outbound" class="owl-carousel">
-                            {{ range where .Data.Pages  "Type" "outbound" }}
-                            <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
-                                <div class="blog-img">
-                                    {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 100%;">{{ end }}
-                                </div>
-                                <div class="content-right">
-                                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                                    <p>{{ .Summary }}</p>
-                                </div>
-                            </li>
-                            {{ end }}
-                        </div>
-                    </div>
-                </div><!-- .col-md-12 close -->
-            </div><!-- .row close -->
-            <div class="row">
-                    <div class="col-md-12">
-                        <div class="block wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <div class="title">
-                                <h3>Featured <span>Hotels</span></h3>
-                            </div>
-                            <div id="owl-hotel" class="owl-carousel">
-                                {{ range where .Data.Pages  "Type" "hotel" }}
-                                <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
-                                    <div class="blog-img">
-                                        {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 100%;">{{ end }}
-                                    </div>
-                                    <div class="content-right">
-                                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                                        <p>{{ .Summary }}</p>
-                                    </div>
-                                </li>
-                                {{ end }}
-                            </div>
-                        </div>
-                    </div><!-- .col-md-12 close -->
-                </div><!-- .row close -->
-                <div class="row">
-                        <div class="col-md-12">
-                            <div class="block wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                                <div class="title">
-                                    <h3>Featured <span>Entertainments</span></h3>
-                                </div>
-                                <div id="owl-entertainment" class="owl-carousel">
-                                    {{ range where .Data.Pages  "Type" "entertainment" }}
-                                    <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
-                                        <div class="blog-img">
-                                            {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 100%;">{{ end }}
-                                        </div>
-                                        <div class="content-right">
-                                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                                            <p>{{ .Summary }}</p>
-                                        </div>
-                                    </li>
-                                    {{ end }}
-                                </div>
-                            </div>
-                        </div><!-- .col-md-12 close -->
-                    </div><!-- .row close -->
     </div><!-- .container close -->
 </section><!-- slider close -->
 {{end}}

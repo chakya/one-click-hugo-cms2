@@ -16,27 +16,27 @@ summaryLength = "7"
 
     [[menu.nav]]
     name = "Inbound Travelling"
-    URL = "about-us"
+    URL = "inbound"
     weight = 2
 
     [[menu.nav]]
     name = "Outbound Travelling"
-    URL = "blog"
+    URL = "outbound"
     weight = 3
 
     [[menu.nav]]
     name = "Hotels"
-    URL = "price"
+    URL = "hotel"
     weight = 4
 
     [[menu.nav]]
     name = "Inbound Entertainment"
-    URL = "subscribe"
+    URL = "entertainment"
     weight = 5
 
     [[menu.nav]]
-    name = "About Us"
-    URL = "contact-us"
+    name = "Subscribe"
+    URL = "subscribe"
     weight = 6
 
 

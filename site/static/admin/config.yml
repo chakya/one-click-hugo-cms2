@@ -14,8 +14,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Deskripsi", name: "description", widget: "text"}
       - {label: "gambar", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-
-collections: # A list of collections the CMS should be able to edit
   - name: "Inbound" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Inbound" # Used in the UI, ie.: "New Post"
     folder: "site/content/inbound" # The path to the folder where the documents are stored
@@ -25,7 +23,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Deskripsi", name: "description", widget: "text"}
       - {label: "gambar", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-collections: # A list of collections the CMS should be able to edit
   - name: "Outbound" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Outbound" # Used in the UI, ie.: "New Post"
     folder: "site/content/outbound" # The path to the folder where the documents are stored
@@ -35,7 +32,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Deskripsi", name: "description", widget: "text"}
       - {label: "gambar", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-collections: # A list of collections the CMS should be able to edit
   - name: "Entertainment" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Entertainment" # Used in the UI, ie.: "New Post"
     folder: "site/content/entertainment" # The path to the folder where the documents are stored

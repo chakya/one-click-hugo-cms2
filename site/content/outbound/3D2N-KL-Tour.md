@@ -1,7 +1,7 @@
 ---
 title: 3D2N KL Tour
 description: Spend your days exploring Malaysia Truly Asia.
-image: /img/861114a3-6fa4-4d1e-b448-6d860b1e71ad.jpg
+image: /img/kl-eveining-view.jpg
 ---
 Price
 Rp500,000

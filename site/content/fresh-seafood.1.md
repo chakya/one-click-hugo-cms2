@@ -2,7 +2,7 @@
 title: "Fresh Seafood"
 date: 2018-12-26T12:23:10+06:00
 image: images/blog/blog-img-3.jpg
-type: "entertainment"
+type: "post"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, veniam!

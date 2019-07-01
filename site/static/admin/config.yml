@@ -10,7 +10,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/hotel" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Nama Hotel", name: "name", widget: "string"}
+      - {label: "Nama Hotel", name: "title", widget: "string"}
       - {label: "Deskripsi", name: "description", widget: "text"}
       - {label: "gambar", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/inbound" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Nama", name: "name", widget: "string"}
+      - {label: "Nama", name: "title", widget: "string"}
       - {label: "Deskripsi", name: "description", widget: "text"}
       - {label: "gambar", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -28,7 +28,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/outbound" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Nama Hotel", name: "name", widget: "string"}
+      - {label: "Nama Hotel", name: "title", widget: "string"}
       - {label: "Deskripsi", name: "description", widget: "text"}
       - {label: "gambar", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}

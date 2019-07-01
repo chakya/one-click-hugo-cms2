@@ -5,15 +5,45 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
+  - name: "hotel" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "hotel" # Used in the UI, ie.: "New Post"
+    folder: "site/content/hotel" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Nama Hotel", name: "name", widget: "string"}
+      - {label: "Deskripsi", name: "description", widget: "text"}
+      - {label: "gambar", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "Inbound" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Inbound" # Used in the UI, ie.: "New Post"
+    folder: "site/content/inbound" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Nama", name: "name", widget: "string"}
+      - {label: "Deskripsi", name: "description", widget: "text"}
+      - {label: "gambar", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+collections: # A list of collections the CMS should be able to edit
+  - name: "Outbound" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Outbound" # Used in the UI, ie.: "New Post"
+    folder: "site/content/outbound" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Nama Hotel", name: "name", widget: "string"}
+      - {label: "Deskripsi", name: "description", widget: "text"}
+      - {label: "gambar", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+collections: # A list of collections the CMS should be able to edit
+  - name: "Entertainment" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Entertainment" # Used in the UI, ie.: "New Post"
+    folder: "site/content/entertainment" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Nama", name: "name", widget: "string"}
+      - {label: "Deskripsi", name: "description", widget: "text"}
+      - {label: "gambar", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"

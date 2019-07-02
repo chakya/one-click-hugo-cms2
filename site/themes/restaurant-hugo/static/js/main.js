@@ -51,6 +51,16 @@ $(document).ready(function(){
     slideSpeed : 800,
  });
 
+ var owl = $('.owl-carousel');
+
+owl.on('drag.owl.carousel', function(event) {
+    $('body').css('overflow', 'hidden');
+});
+
+owl.on('dragged.owl.carousel', function(event) {
+    $('body').css('overflow', 'auto');
+});
+
 
 	$("#navigation").sticky({
 		topSpacing : 75,

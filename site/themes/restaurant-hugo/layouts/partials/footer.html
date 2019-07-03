@@ -38,7 +38,7 @@
                 <!-- .col-md-4 close -->
                 <div class="col-md-4">
                     <div class="block wow fadeInLeft"  data-wow-delay="1100ms">
-                        <div class="gallary">
+                        <!-- <div class="gallary">
                             <h3>{{ with .Site.Params.footer.galleryTitle }} {{ . | safeHTML }} {{ end }}</h3>
                             <ul class="gallery">
                                 {{ range $.Site.Params.gallery.item }}
@@ -48,9 +48,9 @@
                                 {{ end }}
                                 
                             </ul>
-                        </div>
+                        </div> -->
                         <div class="social-media-link">
-                            <h3>{{ with .Site.Params.footer.socialTitle }} {{ . | safeHTML }} {{ end }}</h3>
+                            <h3  style="padding-top: 0px">{{ with .Site.Params.footer.socialTitle }} {{ . | safeHTML }} {{ end }}</h3>
                             <ul>
                                 {{ range $.Site.Params.footer.socialLink }}
                                 <li>

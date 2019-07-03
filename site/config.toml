@@ -30,6 +30,11 @@ summaryLength = "7"
     weight = 4
 
     [[menu.nav]]
+    name = "Transport"
+    URL = "transportation"
+    weight = 5
+
+    [[menu.nav]]
     name = "Inbound Entertainment"
     URL = "entertainment"
     weight = 5
@@ -170,20 +175,16 @@ content = "rest@gmail.com - rest@mail.ru"
 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/charles"
+link = "https://www.facebook.com/travessel/"
 
 
 [[params.footer.socialLink]]
-icon = "twitter"
-link = "https://fb.com/charles"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/charles"
+icon = "whatsapp"
+link = "https://api.whatsapp.com/send?phone=6285355380557&text=Halo%20Travessel,%20saya%20mau%20tanya"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/charles"
+link = "https://www.instagram.com/travessel/"
 
 
 #Footer Copyright

@@ -79,7 +79,8 @@ owl.on('dragged.owl.carousel', function(event) {
     // animation scroll js
     var html_body = $('html, body');
     $('nav li a').on('click', function () { //use page-scroll class in any HTML tag for scrolling
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+        console.log(location.pathname,location.hostname, this.pathname)
+        if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
             var target = $(this.hash);
             target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
             if (target.length) {
@@ -88,6 +89,9 @@ owl.on('dragged.owl.carousel', function(event) {
                 }, 1500, "easeInOutExpo");
                 return false;
             }
+        }
+        else{
+            window.location.href = "http://www.travessel.com";
         }
     });
 

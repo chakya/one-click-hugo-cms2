@@ -37,12 +37,12 @@ summaryLength = "7"
     [[menu.nav]]
     name = "Inbound Entertainment"
     URL = "entertainment"
-    weight = 5
+    weight = 6
 
     [[menu.nav]]
     name = "Subscribe"
     URL = "subscribe"
-    weight = 6
+    weight = 7
 
 
 

@@ -161,17 +161,17 @@ socialTitle = "Follow <span>US</span>"
 [[params.footer.contactItem]]
 title="Telephone"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "+62 853 5538 0557"
 
 [[params.footer.contactItem]]
 title="Address"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "Orchard Park Blk B No.7, Agung Podomoro Land, Batam Centre, 29432, Batam, Indonesia"
 
 [[params.footer.contactItem]]
 title="E mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "travessel.id@gmail.com"
 
 [[params.footer.socialLink]]
 icon = "facebook"

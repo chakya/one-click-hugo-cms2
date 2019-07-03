@@ -1,5 +1,5 @@
 ---
-title: Swiss Bel
+title: Swiss Bell Hotel HarbourBay
 description: >-
   Swiss-Belhotel International didirikan pada tahun 1986 oleh Mr. Peter
   Gautschi. Swiss-Belhotel International ialah perusahaan hotel management yang

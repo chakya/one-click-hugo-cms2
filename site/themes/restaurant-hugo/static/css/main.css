@@ -13,7 +13,7 @@
 
 body {
   font-family: myfont;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
 }
 h1,
@@ -37,7 +37,7 @@ h3 {
   font-weight: 600;
 }
 p {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 20px;
   margin: 0px;
@@ -53,7 +53,7 @@ a:active,
 a:focus,
 a:active {
   text-decoration: none !important;
-  font-size: 15px;
+  font-size: 20px;
 }
 .section {
   padding:100px 0;
@@ -630,7 +630,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   background: none;
   color: #54BFD4;
   border: 1px solid #54BFD4;
-  font-size: 15px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 600;
   -webkit-transition: .3s all;
@@ -729,7 +729,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   border: none;
   height: 65px;
   border-radius: 0px;
-  font-size: 15px;
+  font-size: 20px;
 }
 #subscribe .block form .input-group-addon {
   padding: 0px;
@@ -860,7 +860,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #footer .block .info ul li p,
 #footer .block .gallary ul li p {
   color: #474747;
-  font-size: 14px;
+  font-size: 16px;
 }
 #footer .block .social-media-link h3 {
   font-size: 20px;

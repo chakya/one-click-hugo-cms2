@@ -114,8 +114,8 @@
                                 </div>
                                 <div id="owl-entertainment" class="owl-carousel">
                                     {{ range where .Data.Pages  "Type" "entertainment" }}
-                                    <a href="{{ .Permalink }}">
                                     <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
+                                        <a href="{{ .Permalink }}">
                                         <div class="blog-img">
                                             {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}
                                         </div>
@@ -123,8 +123,8 @@
                                             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                             <p>{{ .Summary }}</p>
                                         </div>
+                                    </a>
                                     </li>
-                                </a>
                                     {{ end }}
                                 </div>
                             </div>

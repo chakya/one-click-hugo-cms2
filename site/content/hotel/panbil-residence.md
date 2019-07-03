@@ -1,6 +1,6 @@
 ---
-title: Panbil Residence
-description: Hotel
+title: Best Western Premier Panbil
+description: 4 Stars Hotel in Batam
 image: /img/img_20170226_145257-01-01-1-.jpeg
 ---
 ![Deluxe Room](/img/6295e758-d9fd-4078-9f1c-15daf18fed2b.jpg)

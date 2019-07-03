@@ -1,12 +1,10 @@
 ---
 title: Grand iHotel
 description: 3 Stars Hotel in Batam.
-image: /img/861114a3-6fa4-4d1e-b448-6d860b1e71ad.jpg
+image: /img/70293004.jpg
 ---
-# Twin Bedroom
+![Superior Room](/img/cb28f548-ab3d-49c9-9ccc-c0b5347103ca.jpg)
 
-Rp500.000
+![King Bed](/img/a3929202-dbdb-4d96-90f5-790b55b8bc91.jpg)
 
-# Queen Bed
-
-Rp700.000
+![Twin Bed](/img/861114a3-6fa4-4d1e-b448-6d860b1e71ad.jpg)

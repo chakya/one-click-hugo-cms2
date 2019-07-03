@@ -9,15 +9,17 @@
                     </div>
                     <div id="owl-inbound" class="owl-carousel">
                         {{ range where .Data.Pages  "Type" "inbound" }}
-                        <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
+                        <a href="{{ .Permalink }}">
+                                <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                             <div class="blog-img">
-                                {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 170px; min-width:291px; object-fit: cover">{{ end }}
+                                {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}
                             </div>
                             <div class="content-right">
                                 <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                 <p>{{ .Summary }}</p>
                             </div>
                         </li>
+                        </a>
                         {{ end }}
                     </div>
                 </div>
@@ -33,15 +35,17 @@
                         </div>
                         <div id="owl-outbound" class="owl-carousel">
                             {{ range where .Data.Pages  "Type" "outbound" }}
-                            <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
+                                    <a href="{{ .Permalink }}">
+                                            <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                 <div class="blog-img">
-                                    {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 170px; min-width:291px; object-fit: cover">{{ end }}
+                                    {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}
                                 </div>
                                 <div class="content-right">
                                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                     <p>{{ .Summary }}</p>
                                 </div>
                             </li>
+                            </a>
                             {{ end }}
                         </div>
                     </div>
@@ -56,16 +60,18 @@
                                 <h3 class="headingPack">Selected <span>Hotels</span></h3>
                             </div>
                             <div id="owl-hotel" class="owl-carousel">
-                                {{ range where .Data.Pages  "Type" "hotel" }}
+                                    <a href="{{ .Permalink }}">
+                                            {{ range where .Data.Pages  "Type" "hotel" }}
                                 <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                     <div class="blog-img">
-                                        {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 170px; min-width:291px; object-fit: cover">{{ end }}
+                                        {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}
                                     </div>
                                     <div class="content-right">
                                         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                         <p>{{ .Summary }}</p>
                                     </div>
                                 </li>
+                                </a>
                                 {{ end }}
                             </div>
                         </div>
@@ -82,15 +88,17 @@
                             </div>
                             <div id="owl-transportation" class="owl-carousel">
                                 {{ range where .Data.Pages  "Type" "transportation" }}
-                                <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
+                                <a href="{{ .Permalink }}">
+                                        <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                     <div class="blog-img">
-                                        {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 170px; min-width:291px; object-fit: cover">{{ end }}
+                                        {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}
                                     </div>
                                     <div class="content-right">
                                         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                         <p>{{ .Summary }}</p>
                                     </div>
                                 </li>
+                                </a>
                                 {{ end }}
                             </div>
                         </div>
@@ -106,15 +114,17 @@
                                 </div>
                                 <div id="owl-entertainment" class="owl-carousel">
                                     {{ range where .Data.Pages  "Type" "entertainment" }}
+                                    <a href="{{ .Permalink }}">
                                     <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                         <div class="blog-img">
-                                            {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="min-height: 170px; min-width:291px; object-fit: cover">{{ end }}
+                                            {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}
                                         </div>
                                         <div class="content-right">
                                             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                             <p>{{ .Summary }}</p>
                                         </div>
                                     </li>
+                                </a>
                                     {{ end }}
                                 </div>
                             </div>

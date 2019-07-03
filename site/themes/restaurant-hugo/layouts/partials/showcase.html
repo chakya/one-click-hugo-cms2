@@ -35,8 +35,8 @@
                         </div>
                         <div id="owl-outbound" class="owl-carousel">
                             {{ range where .Data.Pages  "Type" "outbound" }}
-                                    <a href="{{ .Permalink }}">
-                                            <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
+                            <a href="{{ .Permalink }}">
+                            <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                 <div class="blog-img">
                                     {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}
                                 </div>
@@ -60,8 +60,8 @@
                                 <h3 class="headingPack">Selected <span>Hotels</span></h3>
                             </div>
                             <div id="owl-hotel" class="owl-carousel">
-                                    <a href="{{ .Permalink }}">
-                                            {{ range where .Data.Pages  "Type" "hotel" }}
+                                {{ range where .Data.Pages  "Type" "hotel" }}
+                                <a href="{{ .Permalink }}">
                                 <li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                     <div class="blog-img">
                                         {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-responsive" style="height: 220px; min-width:291px; object-fit: cover">{{ end }}

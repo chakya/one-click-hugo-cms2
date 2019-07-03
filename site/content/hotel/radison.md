@@ -1,5 +1,5 @@
 ---
-title: Radison
+title: Radisson
 description: >-
   Radisson is an international hotel chain of the Radisson Hotel Group. Since
   2016, the parent company Radisson Hotel Group has been majority owned by

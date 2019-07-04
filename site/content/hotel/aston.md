@@ -1,5 +1,5 @@
 ---
-title: Aston
+title: Aston Batam Hotel & Residence
 featured: true
 description: 4 Stars Hotel in Batam
 image: /img/getlstd-property-photo.jpg

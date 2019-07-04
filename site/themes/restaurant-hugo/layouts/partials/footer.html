@@ -24,11 +24,11 @@
                         <h3>{{ with .Site.Params.footer.blogTitle }} {{ . | safeHTML }} {{ end }}</h3>
                          <div class="blog">
                             <ul>
-                                {{ range first 3 (where .Site.Pages "Type" "post") }}
+                                {{ range first 3 (where .Site.Pages  ".Params.featured" true) }}
                                     {{ "<!-- post -->" | safeHTML }}
                                     <li>
                                         <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                                        <p>{{ .PublishDate.Format "02 Jan 2006" }}</p>
+                                        <!-- <p>{{ .PublishDate.Format "02 Jan 2006" }}</p> -->
                                     </li>
                                 {{ end }}
                             </ul>

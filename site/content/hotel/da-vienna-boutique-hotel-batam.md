@@ -1,13 +1,13 @@
 ---
 title: Da Vienna Boutique Hotel Batam
+featured: true
 description: 3 Stars Hotel in Batam
 image: /img/da-vienna-boutique-hotel-batam-via-instagram-riansaputra452-1024x1024.jpg
-featured: true
 ---
-![](/img/ab13b8d1_z.jpg)
+![Junior Suite](/img/ab13b8d1_z.jpg "Junior Suite")
 
-![](/img/da-vienna-boutique-hotel.jpg)
+![Grand Deluxe Double](/img/188102424.jpg "Grand Deluxe Double")
 
-![](/img/grand-deluxe.jpg)
+![Suite Executive](/img/188106194.jpg "Suite Executive")
 
-![](/img/images.jpg)
+![Deluxe Twin](/img/images.jpg "Deluxe Twin")

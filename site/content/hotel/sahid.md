@@ -4,10 +4,10 @@ featured: true
 description: 3 Stars Hotel in Batam
 image: /img/84840599.jpg
 ---
-![](/img/1387518_16120711400049497917.jpg)
+![Superior Double](/img/superior-double.jpg "Superior Double")
 
-![](/img/84825429.jpg)
+![Superior Twin](/img/superior-twin.jpg "Superior Twin")
 
-![](/img/84826045.jpg)
+![Grand Modern Deluxe Double](/img/grand-modern-deluxe-double.jpg "Grand Modern Deluxe Double")
 
-![](/img/30000002000335780_wh_24.jpg)
+![Modern Deluxe Triple](/img/modern-deluxe-triple.jpg "Modern Deluxe Triple")

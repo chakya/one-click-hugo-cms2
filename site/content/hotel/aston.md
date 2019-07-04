@@ -4,14 +4,12 @@ featured: true
 description: 4 Stars Hotel in Batam
 image: /img/getlstd-property-photo.jpg
 ---
-## Twin Sharing Bedroom
+## 
 
-![](/img/22-553.jpg)
+![Rooms Deluxe Twin](/img/22-553.jpg "Rooms Deluxe Twin")
 
-![](/img/2642734_17091918170056582155.jpg)
+![Rooms Deluxe King](/img/181622566.jpg "Rooms Deluxe King")
 
-![](/img/181622566.jpg)
+![Rooms Family](/img/113740955.jpg "Rooms Family")
 
-![](/img/181622561.jpg)
-
-![](/img/aston-batam-hotel-residence-photo14.jpg)
+![Rooms Suite](/img/113740975.jpg "Rooms Suite")

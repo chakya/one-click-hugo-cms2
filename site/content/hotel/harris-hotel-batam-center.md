@@ -1,8 +1,9 @@
 ---
 title: Harris Hotel Batam Center
+featured: true
 description: 4 Stars Hotel in Batam
 image: /img/90harri-bc.jpg
 ---
-![](/img/217563378_wxh.jpg)
+![Twin](/img/217563378_wxh.jpg "Twin")
 
-![](/img/welcome-to-batam-iconic.jpg)
+![Double](/img/welcome-to-batam-iconic.jpg "Double")

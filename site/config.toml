@@ -192,7 +192,9 @@ link = "https://www.instagram.com/travessel/"
 #Footer Copyright Text
 [params.footerCopyright]
 enable = true
-Text = "Copyright 2019 - All Rights Reserved.Design and Developed By charleskya"
+
+Text = "Copyright 2019 - Developed By <a style='font-size:14px' href='https://api.whatsapp.com/send?phone=62817778488&text=Halo%20Charles,%20mau%20bantu%20dibuatkan%20website%20yang%20keren%20juga%20nih'> Charleskya</a>"
+
 
 
 

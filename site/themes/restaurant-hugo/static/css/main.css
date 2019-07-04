@@ -910,11 +910,34 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #footer-bottom p a {
   color: #54BFD4;
 }
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button5 {
+  background-color: white;
+  color: #959595;
+  border: 2px solid #959595;
+}
 
+.button5:hover {
+  background-color: #555555;
+  color: white;
+}
 
 
 /* Shine */
-.blog-img {
+/* .blog-img {
   position: relative;
   overflow:hidden
 }
@@ -949,7 +972,6 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	}
 }
 
-/* Rotate */
 .blog-img img {
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
@@ -957,4 +979,4 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 .blog-img:hover img {
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
-}
+} */

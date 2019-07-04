@@ -1,14 +1,19 @@
 ---
 title: 'Gideon Hotel '
+featured: true
 description: 3 Stars Hotel in Batam
 image: /img/the-hotel-v8126413.jpg
 ---
-![](/img/20692168.jpg)
+![Suite Executive](/img/20692168.jpg "Suite Executive")
 
-![](/img/20692182.jpg)
+![Junior Suite](/img/20692182.jpg "Junior Suite")
 
-![](/img/60996073.jpg)
+![Superior Double](/img/kamar-superior-double.jpg "Superior Double")
 
-![](/img/gideon-hotel-batam1.jpg)
+![Superior Twin](/img/kamar-superior-twin.jpg "Superior Twin")
 
-![](/img/l206925.jpg)
+![Deluxe Double](/img/kamar-deluxe-double.jpg "Deluxe Double")
+
+![Deluxe Twin](/img/kamar-deluxe-twin.jpg "Deluxe Twin")
+
+![Executive Family](/img/l206925.jpg "Executive Family")

@@ -4,12 +4,14 @@ featured: true
 description: 4 Stars Hotel in Batam
 image: /img/screenshot_1.png
 ---
-![](/img/screenshot_2.png)
+![Deluxe Double](/img/deluxe-double.jpg "Deluxe Double")
 
-![](/img/screenshot_3.png)
+![Deluxe Twin](/img/deluxe-twin.jpg "Deluxe Twin")
 
-![](/img/screenshot_4.png)
+![Suite Deluxe](/img/screenshot_4.png "Suite Deluxe")
 
-![](/img/screenshot_5.png)
+![Suite Executive](/img/suite-executive.jpg "Suite Executive")
 
-![](/img/screenshot_6.png)
+![Superior Double](/img/superior-double.jpg "Superior Double")
+
+![Superior Twin](/img/superior-twin.jpg "Superior Twin")

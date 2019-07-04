@@ -935,6 +935,14 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   color: white;
 }
 
+.bg{
+    padding: 100px 0px;
+    text-align: center;
+    background-attachment: fixed;
+    /* background-size: cover; */
+    position: relative;
+}
+
 
 /* Shine */
 /* .blog-img {

@@ -1,5 +1,6 @@
 ---
-title: Sahid
+title: Sahid Batam Center Hotel
+featured: true
 description: 3 Stars Hotel in Batam
 image: /img/84840599.jpg
 ---

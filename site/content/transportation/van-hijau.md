@@ -4,6 +4,6 @@ featured: false
 description: >
   Type of Vehicle : MPV, Van, Mini Bus, Bus (12 seaters) || Travessel available
   everyday everytime from Monday-Sunday, 24hours stand-by
-image: /img/index.jpg
+image: /img/luar-mobil-van-hijau.jpg
 ---
-![](/img/indexd.jpg)
+![](/img/dalam-mobil-van-hijau.jpg)

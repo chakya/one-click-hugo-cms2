@@ -4,6 +4,8 @@ featured: true
 description: 4 Stars Hotel in Batam
 image: /img/getlstd-property-photo.jpg
 ---
+## Twin Sharing Bedroom
+
 ![](/img/22-553.jpg)
 
 ![](/img/2642734_17091918170056582155.jpg)

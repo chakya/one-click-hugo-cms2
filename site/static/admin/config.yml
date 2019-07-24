@@ -8,6 +8,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "hotel" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Hotel" # Used in the UI, ie.: "New Post"
     folder: "site/content/hotel" # The path to the folder where the documents are stored
+    identifier_field: name
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Nama Hotel", name: "title", widget: "string"}
@@ -18,6 +19,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "inbound" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Inbound" # Used in the UI, ie.: "New Post"
     folder: "site/content/inbound" # The path to the folder where the documents are stored
+    identifier_field: name
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Nama", name: "title", widget: "string"}
@@ -28,6 +30,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "outbound" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Outbound" # Used in the UI, ie.: "New Post"
     folder: "site/content/outbound" # The path to the folder where the documents are stored
+    identifier_field: name
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Nama Hotel", name: "title", widget: "string"}
@@ -38,6 +41,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "transportation" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Transportation" # Used in the UI, ie.: "New Post"
     folder: "site/content/transportation" # The path to the folder where the documents are stored
+    identifier_field: name
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Nama", name: "title", widget: "string"}
@@ -48,6 +52,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "entertainment" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Entertainment" # Used in the UI, ie.: "New Post"
     folder: "site/content/entertainment" # The path to the folder where the documents are stored
+    identifier_field: name
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Nama", name: "name", widget: "string"}

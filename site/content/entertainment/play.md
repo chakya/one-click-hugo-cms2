@@ -1,7 +1,7 @@
 ---
 name: Alya Layer Cake
 featured: false
-description: Batam Layer Cake
+description: Alya Layer Cake
 image: /img/menu.jpg
 ---
 ![](/img/chesee.jpg "Chesee")

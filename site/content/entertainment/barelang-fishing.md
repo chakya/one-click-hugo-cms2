@@ -2,7 +2,7 @@
 name: Barelang Fishing
 featured: false
 description: More Than Just Amaizing Fishing
-image: /img/logo22.png
+image: /img/barelang-fishing-logo.jpg
 ---
 ![](/img/20150423-5.jpg)
 

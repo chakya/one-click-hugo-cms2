@@ -2,6 +2,8 @@
 name: IndoThai Massage
 featured: false
 description: >
+  IndoThai Massage
+
   Providing only the best and most authentic body massages, IndoThai Massage
   continues to be a preferred choice among locals and tourists. All our
   therapists are professional, skilled and competently trained for the uniform

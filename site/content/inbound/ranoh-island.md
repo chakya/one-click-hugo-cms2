@@ -1,7 +1,17 @@
 ---
 title: Ranoh Island
 featured: false
-description: "RANOH ISLAND\n\nTERM & CONDITION 1DAY TOUR\n*\t0-3 years = Infant Foc, 4-12 years = Child\n*\tCharter boat (Small max 13pax=600k, Big max 70pax=2Jt)\n*\tPrice eff  15 Jun Until 31 Jul 2019\n\nTERM & CONDITION HALFDAY TOUR\n*\t0-3 years = Infant Foc, 4-12 years = Child\n*\tPrice eff 15 Jun Until 31 Jul 2019\n\n\n"
+description: >+
+  Ranoh Island is the name of an island in the territory of the Republic of
+  Indonesia, which is located in an archipelago of Batam city, precisely
+  crossing the 6th bridge in Barelang. Pulau Ranoh or now more popularly known
+  as Adventure Pulau Ranoh is a stopover beach for snorkeling and diving
+  tourists from Pulau Abang, usually the snorkeling and diving spend lunch time
+  on this Rano beach while taking photos for a moment before resuming their
+  activities in the waters of Pulau Abang and the surrounding islands.
+
+
+
 image: /img/maxresdefault.jpg
 ---
 ![](/img/package-a.jpg)

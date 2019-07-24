@@ -1,8 +1,7 @@
 ---
-name: Alya Layer Cake
+title: Alya Layer Cake
 featured: false
 description: |+
-
   Alya layer cake typical from Batam
 
 image: /img/menu.jpg

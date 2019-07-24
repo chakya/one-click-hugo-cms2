@@ -1,7 +1,10 @@
 ---
 title: Kepri Coral Island
 featured: false
-description: Inbound Package
+description: >+
+  Kepri Coral Island is the name of an island in the territory of the Republic
+  of Indonesia, which is located in the archipelago of Batam city precisely.
+
 image: /img/wisata-batam-kepri-coral-promotion-modelux-digital-pulau-abang-01.jpg
 ---
 ![](/img/kepri-coral-reosrt-batam-8-.jpg)

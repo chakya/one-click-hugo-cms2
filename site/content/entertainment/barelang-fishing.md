@@ -1,9 +1,7 @@
 ---
 name: Barelang Fishing
 featured: false
-description: |-
-  Barelang Fishing
-  More Than Just Amaizing Fishing
+description: More Than Just Amaizing Fishing
 image: /img/logo22.png
 ---
 ![](/img/20150423-5.jpg)

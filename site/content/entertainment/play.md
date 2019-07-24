@@ -1,5 +1,5 @@
 ---
-name: Alya Layer Cake
+title: Alya Layer Cake
 featured: false
 description: Alya Layer Cake
 image: /img/menu.jpg

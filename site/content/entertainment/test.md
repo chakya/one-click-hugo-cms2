@@ -1,5 +1,5 @@
 ---
-name: IndoThai Massage
+title: IndoThai Massage
 featured: false
 description: >
 

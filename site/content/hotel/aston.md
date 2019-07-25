@@ -8,19 +8,13 @@ image: /img/getlstd-property-photo.jpg
 
 ![Rooms Deluxe Twin](/img/22-553.jpg "Rooms Deluxe Twin")
 
-
-
 Rooms Deluxe King
 
 ![Rooms Deluxe King](/img/181622566.jpg "Rooms Deluxe King")
 
-
-
 Rooms Family
 
 ![Rooms Family](/img/113740955.jpg "Rooms Family")
-
-
 
 Rooms Suite
 

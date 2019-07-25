@@ -1,5 +1,5 @@
 ---
-title: MPv 6 Seaters
+title: MPV 6 Seaters
 featured: false
 description: |
   Type of Vehicle : MPV

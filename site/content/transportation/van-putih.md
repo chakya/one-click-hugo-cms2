@@ -6,4 +6,6 @@ description: >
   everyday everytime from Monday-Sunday, 24hours stand-by
 image: /img/luar-van-putih.jpg
 ---
+Interior
+
 ![](/img/dalam-van-putih.jpg)

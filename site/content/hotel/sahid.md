@@ -4,7 +4,7 @@ featured: true
 description: 3 Stars Hotel in Batam
 image: /img/84840599.jpg
 ---
-Superior Double
+SUPERIOR DOUBLE
 
 2 single beds or 1 queen bed
 
@@ -16,7 +16,7 @@ Shower
 
 ![Superior Double](/img/superior-double.jpg "Superior Double")
 
-Superior Twin
+SUPERIOR TWIN
 
 2 single beds or 1 queen bed
 
@@ -28,7 +28,7 @@ Shower
 
 ![Superior Twin](/img/superior-twin.jpg "Superior Twin")
 
-Grand Modern Deluxe Double
+GRAND MODERN DELUXE DOUBLE
 
 2 single beds or 1 king bed
 
@@ -40,7 +40,7 @@ Shower
 
 ![Grand Modern Deluxe Double](/img/grand-modern-deluxe-double.jpg "Grand Modern Deluxe Double")
 
-Modern Deluxe Triple
+MODERN DELUXE DOUBLE
 
 1 single bed and 1 king bed
 

@@ -2,7 +2,7 @@
 title: Barelang Fishing
 featured: false
 description: More Than Just Amaizing Fishing
-image: /img/ikan-kerapu-macan.jpg
+image: /img/index.jpg
 ---
 Picture 1
 
@@ -53,5 +53,13 @@ Picture 6
 • 
 
 ![](/img/1609902_592003634201915_141328_n.jpg)
+
+Picture 7
+
+• 
+
+• 
+
+
 
 ![](/img/1512801_592002850868660_334105165_n.jpg)

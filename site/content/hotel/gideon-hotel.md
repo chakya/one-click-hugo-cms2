@@ -54,7 +54,7 @@ Shower
 
 ![Deluxe Double](/img/kamar-deluxe-double.jpg "Deluxe Double")
 
-Executive Family
+EXECUTIVE FAMILY
 
 1 king bed
 

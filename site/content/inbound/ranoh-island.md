@@ -6,10 +6,7 @@ description: >+
   Indonesia, which is located in an archipelago of Batam city, precisely
   crossing the 6th bridge in Barelang. Pulau Ranoh or now more popularly known
   as Adventure Pulau Ranoh is a stopover beach for snorkeling and diving
-  tourists from Pulau Abang, usually the snorkeling and diving spend lunch time
-  on this Rano beach while taking photos for a moment before resuming their
-  activities in the waters of Pulau Abang and the surrounding islands.
-
+  tourists from Pulau Abang
 
 
 image: /img/around.jpg
@@ -53,8 +50,6 @@ Glamping
 \*Buffet Lunch
 
 \----------------------------------------------------
-
-
 
 Buffet Lunch
 

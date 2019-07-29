@@ -170,7 +170,7 @@ In-room safe box
 
 ![Junior Suite](/img/ab13b8d1_z.jpg "Junior Suite")
 
-Grand Deluxe Double
+GRAND DELUXE DOUBLE
 
 \-Features:
 
@@ -244,11 +244,9 @@ Closet
 
 In-room safe box
 
-
-
 ![Grand Deluxe Double](/img/188102424.jpg "Grand Deluxe Double")
 
-Suite Executive
+SUITE EXECUTIVE
 
 \-Features:
 
@@ -390,11 +388,9 @@ Closet
 
 In-room safe box
 
-
-
 ![Suite Executive](/img/188106194.jpg "Suite Executive")
 
-Deluxe Twin
+DELUXE TWIN
 
 \-Features:
 

@@ -16,7 +16,7 @@ Shower and bathtub
 
 ![Deluxe Double](/img/deluxe-double.jpg "Deluxe Double")
 
-Grand Superior Double and Twin
+GRAND SUPERIOR DOUBLE AND TWIN
 
 2 single beds or 1 double bed
 
@@ -59,8 +59,6 @@ FAMILY ROOM
 33 m²/355 ft²
 
 City view
-
-
 
 ![Rooms Family](/img/kamar-keluarga.jpg "Rooms Family")
 

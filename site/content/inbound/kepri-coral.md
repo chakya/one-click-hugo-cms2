@@ -17,8 +17,6 @@ image: /img/dome-village-room-1.jpg
 
 •
 
-
-
 ![](/img/cabin-room.jpg)
 
 •
@@ -37,14 +35,10 @@ image: /img/dome-village-room-1.jpg
 
 •
 
-
-
 ![](/img/pakage.jpg)
 
 •
 
 •
-
-
 
 ![](/img/1-day.jpg)

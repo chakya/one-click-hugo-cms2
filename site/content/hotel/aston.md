@@ -78,6 +78,10 @@ Laptop safe box
 
 Smoke detector
 
+•
+
+•
+
 ![Rooms Deluxe Twin](/img/22-553.jpg "Rooms Deluxe Twin")
 
 DELUXE KING ROOM
@@ -153,6 +157,10 @@ In-room safe box
 Laptop safe box
 
 Smoke detector
+
+•
+
+•
 
 ![Rooms Deluxe King](/img/181622566.jpg "Rooms Deluxe King")
 
@@ -232,6 +240,10 @@ Laptop safe box
 
 Smoke detector
 
+•
+
+•
+
 ![Rooms Family](/img/113740955.jpg "Rooms Family")
 
 SUITE ROOM
@@ -309,5 +321,9 @@ In-room safe box
 Laptop safe box
 
 Smoke detector
+
+•
+
+•
 
 ![Features:Room size: 77 m²/829 ft²Street viewNon-smokingShower and bathtubBathroom and toiletries:Hair dryerMirrorToiletriesTowelsEntertainment:Free Wi-Fi in all rooms!Satellite/cable channelsTelephoneComforts:Air conditioningLinensSlippersSoundproofingWake-up serviceDining, drinking, and snacking:Coffee/tea makerFree bottled waterMini barLayout and furnishings:DeskSeating areaSofaWooden/parqueted flooringClothing and laundry:ClosetClothes rackDressing roomSafety and security features:In-room safe boxLaptop safe boxSmoke detector](/img/113740975.jpg "Rooms Suite")

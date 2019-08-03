@@ -16,6 +16,10 @@ Non-smoking
 
 Shower
 
+•
+
+•
+
 ![Suite Executive](/img/20692168.jpg "Suite Executive")
 
 JUNIOR SUITE
@@ -27,6 +31,10 @@ Room size: 32 m²/344 ft²
 City view
 
 Shower
+
+•
+
+•
 
 ![Junior Suite](/img/20692182.jpg "Junior Suite")
 
@@ -40,6 +48,10 @@ City view
 
 Shower
 
+•
+
+•
+
 ![Superior Double](/img/kamar-superior-double.jpg "Superior Double")
 
 DELUXE ROOM
@@ -52,6 +64,10 @@ City view
 
 Shower
 
+•
+
+•
+
 ![Deluxe Double](/img/kamar-deluxe-double.jpg "Deluxe Double")
 
 EXECUTIVE FAMILY
@@ -63,5 +79,9 @@ Room size: 60 m²/646 ft²
 City view
 
 Shower
+
+•
+
+•
 
 ![Executive Family](/img/l206925.jpg "Executive Family")

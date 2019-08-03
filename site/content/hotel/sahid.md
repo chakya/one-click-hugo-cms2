@@ -14,6 +14,10 @@ City view
 
 Shower
 
+•
+
+•
+
 ![Superior Double](/img/superior-double.jpg "Superior Double")
 
 SUPERIOR TWIN
@@ -25,6 +29,10 @@ Room size: 22 m²/237 ft²
 City view
 
 Shower
+
+•
+
+•
 
 ![Superior Twin](/img/superior-twin.jpg "Superior Twin")
 
@@ -38,6 +46,10 @@ City view
 
 Shower
 
+•
+
+•
+
 ![Grand Modern Deluxe Double](/img/grand-modern-deluxe-double.jpg "Grand Modern Deluxe Double")
 
 MODERN DELUXE DOUBLE
@@ -47,6 +59,10 @@ MODERN DELUXE DOUBLE
 34 m²/366 ft²
 
 City view
+
+•
+
+•
 
 ![Modern Deluxe Triple](/img/modern-deluxe-triple.jpg "Modern Deluxe Triple")
 
@@ -61,5 +77,9 @@ City view
 Non-smoking
 
 Shower
+
+•
+
+•
 
 ![](/img/suite.jpg)

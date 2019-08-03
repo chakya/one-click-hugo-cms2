@@ -18,6 +18,10 @@ Shower
 
 Shared bathroom
 
+•
+
+•
+
 ![Deluxe Double](/img/deluxe-double.jpg "Deluxe Double")
 
 DELUXE SUITE
@@ -33,6 +37,10 @@ Separate shower/bathtub
 Shared bathroom
 
 Executive lounge access
+
+•
+
+•
 
 ![Suite Deluxe](/img/screenshot_4.png "Suite Deluxe")
 
@@ -56,6 +64,10 @@ Kitchenette
 
 Executive lounge access
 
+•
+
+•
+
 ![Suite Executive](/img/suite-executive.jpg "Suite Executive")
 
 SUPERIOR ROOM
@@ -71,5 +83,9 @@ Non-smoking
 Shower
 
 Shared bathroom
+
+•
+
+•
 
 ![Superior Double](/img/superior-double.jpg "Superior Double")

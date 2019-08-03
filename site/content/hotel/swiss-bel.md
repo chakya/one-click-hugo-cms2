@@ -14,6 +14,10 @@ Non-smoking
 
 Shower
 
+•
+
+•
+
 ![Double Room](/img/superior-deluxe.jpgss.jpg "Double Room")
 
 GRAND DELUXE
@@ -26,6 +30,10 @@ Garden view
 
 Shower and bathtub
 
+•
+
+•
+
 ![Grand Deluxe](/img/grand-deluxe.jpg "Grand Deluxe")
 
 JUNIOR SUITE
@@ -35,6 +43,10 @@ JUNIOR SUITE
 Sea view
 
 Non-smoking
+
+•
+
+•
 
 ![Junior Suite](/img/junior-suite.jpg "Junior Suite")
 
@@ -49,5 +61,9 @@ Sea view
 Non-smoking
 
 Separate shower/bathtub
+
+•
+
+•
 
 ![Suite Presidential](/img/suite-president.jpg "Suite Presidential")

@@ -16,6 +16,10 @@ Non-smoking
 
 Shower
 
+•
+
+•
+
 ![Deluxe Double](/img/deluxe-double.jpg "Deluxe Double")
 
 DELUXE TWIN
@@ -29,6 +33,10 @@ Lake view
 Non-smoking
 
 Shower
+
+•
+
+•
 
 ![Deluxe Twin](/img/deluxe-twin.jpg "Deluxe Twin")
 
@@ -44,6 +52,10 @@ Separate shower/bathtub
 
 Kitchenette
 
+•
+
+•
+
 ![Executive](/img/executive.jpg "Executive")
 
 JUNIOR SUITE
@@ -58,6 +70,10 @@ Kitchenette
 
 Executive lounge access
 
+•
+
+•
+
 ![Junior Suite](/img/junior-suite.jpg "Junior Suite")
 
 SUPERIOR ROOM
@@ -70,6 +86,10 @@ Smoking allowed
 
 Shower
 
+•
+
+•
+
 ![Superior Double](/img/superior-double.jpg "Superior Double")
 
 SUPERIOR TWIN
@@ -81,5 +101,9 @@ Room size: 26 m²/280 ft²
 Smoking allowed
 
 Shower
+
+•
+
+•
 
 ![Superior Twin](/img/superior-twins.jpg "Superior Twin")

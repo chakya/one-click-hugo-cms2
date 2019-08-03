@@ -18,7 +18,9 @@ Free Wi-Fi in all rooms!
 
 Satellite/cable channels
 
+•
 
+•
 
 ![DELUXE KING](/img/188102424.jpg "DELUXE KING")
 

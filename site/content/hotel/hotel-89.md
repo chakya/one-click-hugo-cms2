@@ -14,6 +14,10 @@ City view
 
 Shower and bathtub
 
+•
+
+•
+
 ![Deluxe Double](/img/deluxe-double.jpg "Deluxe Double")
 
 GRAND SUPERIOR DOUBLE AND TWIN
@@ -26,6 +30,10 @@ City view
 
 Shower and bathtub
 
+•
+
+•
+
 ![Grand Superior Double and Twin](/img/grand-superior-double-dan-twin.jpg "Grand Superior Double and Twin")
 
 VIP ROOM
@@ -35,6 +43,10 @@ VIP ROOM
 31 m²/334 ft²
 
 No Windows view
+
+•
+
+•
 
 ![Triple ](/img/240055_16041117100041443052.jpg "Triple ")
 
@@ -50,6 +62,10 @@ Shower and bathtub
 
 Kitchenette
 
+•
+
+•
+
 ![Junior Suite](/img/junior-suite.jpg "Junior Suite")
 
 FAMILY ROOM
@@ -59,6 +75,10 @@ FAMILY ROOM
 33 m²/355 ft²
 
 City view
+
+•
+
+•
 
 ![Rooms Family](/img/kamar-keluarga.jpg "Rooms Family")
 
@@ -72,6 +92,10 @@ City view
 
 Shower
 
+•
+
+•
+
 ![Standart Double](/img/standart-double.jpg "Standart Double")
 
 SUPERIOR ROOM
@@ -83,5 +107,9 @@ Room size: 22 m²/237 ft²
 City view
 
 Shower
+
+•
+
+•
 
 ![Superior Double](/img/superior-double.jpg "Superior Double")

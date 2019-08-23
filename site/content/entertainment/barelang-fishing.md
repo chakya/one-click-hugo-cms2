@@ -60,6 +60,44 @@ Picture 7
 
 • 
 
-
-
 ![](/img/1512801_592002850868660_334105165_n.jpg)
+
+Picture 8
+
+• 
+
+• 
+
+![](/img/aas.jpg)
+
+Picture 9
+
+• 
+
+• 
+
+![](/img/asddf.jpg)
+
+Picture 10
+
+• 
+
+• 
+
+![](/img/chan.jpg)
+
+Picture 11
+
+• 
+
+• 
+
+![](/img/chann.jpg)
+
+Picture 12
+
+• 
+
+• 
+
+![](/img/kuming.jpg)

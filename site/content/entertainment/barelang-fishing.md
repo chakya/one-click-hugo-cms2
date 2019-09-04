@@ -2,7 +2,7 @@
 title: Barelang Fishing
 featured: false
 description: More Than Just Amaizing Fishing
-image: /img/index.jpg
+image: /img/1.jpg
 ---
 Picture 1
 
@@ -10,7 +10,7 @@ Picture 1
 
 • 
 
-![](/img/1609902_592003634201915_141328_n.jpg)
+![](/img/keith.jpg)
 
 Picture 2
 
@@ -26,7 +26,7 @@ Picture 3
 
 • 
 
-![](/img/1524587_592002920868653_146876752_n.jpg)
+![](/img/mr.keith.jpg)
 
 Picture 4
 
@@ -34,9 +34,7 @@ Picture 4
 
 • 
 
-![](/img/1609902_592003634201915_141328_n.jpg)
-
-![](/img/1549266_592003504201928_672709606_n.jpg)
+![](/img/maxresdefault.jpg)
 
 Picture 5
 
@@ -52,7 +50,7 @@ Picture 6
 
 • 
 
-![](/img/1609902_592003634201915_141328_n.jpg)
+![](/img/1512801_592002850868660_334105165_n.jpg)
 
 Picture 7
 
@@ -60,7 +58,7 @@ Picture 7
 
 • 
 
-![](/img/1512801_592002850868660_334105165_n.jpg)
+![](/img/aas.jpg)
 
 Picture 8
 
@@ -68,7 +66,7 @@ Picture 8
 
 • 
 
-![](/img/aas.jpg)
+![](/img/asddf.jpg)
 
 Picture 9
 
@@ -76,7 +74,7 @@ Picture 9
 
 • 
 
-![](/img/asddf.jpg)
+![](/img/chan.jpg)
 
 Picture 10
 
@@ -84,17 +82,9 @@ Picture 10
 
 • 
 
-![](/img/chan.jpg)
-
-Picture 11
-
-• 
-
-• 
-
 ![](/img/chann.jpg)
 
-Picture 12
+Picture 11
 
 • 
 
